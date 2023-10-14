@@ -8,9 +8,9 @@ import showToast from "crunchy-toast";
 function Home(){
     const [contacts, setContacts] = useState([
         {
-            name: 'dhanshree',
-            mobile: '9856383292',
-            email: 'dhanashreemahatme@gmail.com'
+            name: 'Shruti',
+            mobile: '9373689463',
+            email: 'shrutiparadkar93@gmail.com'
         },
     ]);
 

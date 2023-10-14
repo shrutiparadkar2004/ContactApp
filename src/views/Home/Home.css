@@ -1,10 +1,10 @@
 body{
-    background-color: rgb(195, 195, 222);
+    background-color: #f2f2f2;
 }
 .app-title{
     text-align: center;
-    color: rgb(36, 36, 195);
-    font-size: 40px; 
+    color: black;
+    font-size: 60px; 
 }
 .App-body{
 display: flex;
@@ -25,14 +25,20 @@ justify-content: space-around;
     font-size: 25px;
     padding: 5px;
     margin: 30px;
+    width: 500px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #999999;
+    border: none;
+    color: white;
 }
 .btn-add-contact{
     display: block;
-    background-color:  rgb(54, 54, 186);
+    background-color: black;
     color: white;
     margin: 30px auto;
-    font-size: 25px;
-    padding: 5px 30px;
+    font-size: 15px;
+    padding: 10px 30px;
     border-radius: 20px;
     cursor: pointer;
     border: none;
